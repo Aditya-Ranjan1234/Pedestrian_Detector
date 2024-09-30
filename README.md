@@ -11,14 +11,14 @@ This project is a beginner-friendly pedestrian detection system that utilizes Op
 Here are some examples of the images processed by the pedestrian detector:
 
 ### Input Images
-![Image 1](Images/img1.jpg)
-![Image 2](Images/img2.jpg)
-![Image 3](Images/img3.jpg)
+<img src="Images/img1.jpg" alt="Image 1" width="300" height="200">
+<img src="Images/img2.jpg" alt="Image 2" width="300" height="200">
+<img src="Images/img3.jpg" alt="Image 3" width="300" height="200">
 
 ### Detected Images
-![Detected 1](Images/detect1.png)
-![Detected 2](Images/detect2.png)
-![Detected 3](Images/detect3.png)
+<img src="Images/detect1.png" alt="Detected 1" width="300" height="200">
+<img src="Images/detect2.png" alt="Detected 2" width="300" height="200">
+<img src="Images/detect3.png" alt="Detected 3" width="300" height="200">
 
 ## Getting Started
 To get started with this project, clone the repository and ensure you have the necessary libraries installed:
